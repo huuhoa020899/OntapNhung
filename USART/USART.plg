@@ -1,0 +1,17 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\ADMIN\Desktop\OnTapHeThongNhung\Phan2\USART\USART.uvproj
+Project File Date:  01/09/2021
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(47): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=2992 RO-data=260 RW-data=4 ZI-data=372  
+FromELF: creating hex file...
+".\USART.axf" - 0 Errors, 1 Warning(s).
